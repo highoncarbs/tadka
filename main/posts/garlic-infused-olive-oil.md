@@ -1,7 +1,7 @@
 ---
 title: Garlic Infused Olive Oil
 date: 2020-10-04T09:47:41.412Z
-excerpt: Check
+excerpt: Simple garlic infused olive oil to pump up any italian dish the indian way.
 list: |-
   * Bulb of Garlic 
   * Olive Oil
