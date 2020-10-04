@@ -7,12 +7,10 @@ list: |-
   * Olive Oil
 tags: italian
 ---
-1. Slice your garlic into small flakes , thin enough to give you a good crunch
+* Slice your garlic into small flakes , thin enough to give you a good crunch
+* Put all the flakes into a pan and pour olive oil to a level which would cover all of the garlic flakes
+* Put the gas on medium heat , and keep it stirring until the flakes turn golden .
 
-2. Put all the flakes into a pan and pour olive oil to a level which would cover all of the garlic flakes
-
-3. Put the gas on medium heat , and keep it stirring until the flakes turn golden .
-
-4. Just when they start to turn golden , put out the gas and let the hot olive oil cook the rest of the garlic flakes.  
+* Just when they start to turn golden , put out the gas and let the hot olive oil cook the rest of the garlic flakes.  
 
 You're now done , use the garlic infused olive oil and the flakes for garnish , works great with pasta and noodles.
