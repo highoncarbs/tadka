@@ -1,0 +1,20 @@
+{
+  "name": "main",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.6.3",
+    "@openfonts/dm-mono_latin": "0.0.2",
+    "bulma": "^0.9.1",
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-netlify-cms": "^1.0.9",
+    "netlify-cms": "^2.10.61",
+    "typeface-corben": "0.0.72",
+    "typeface-dm-sans": "^1.1.3"
+  }
+}

@@ -1,0 +1,20 @@
+backend:
+    name: github
+    repo: highoncarbs/tadka
+  
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "home/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Publish Date", name: "date", widget: "date"}
+        - {label: "Excerpt", name: "excerpt", widget: "string"}
+        - {label: "List", name: "list", widget: "markdown"}
+        - {label: "Body", name: "body", widget: "markdown"}
+        - {label: "Tags", name: "tags", widget: "string"}
